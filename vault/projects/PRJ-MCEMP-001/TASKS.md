@@ -1,0 +1,1 @@
+# TASKS.md - PRJ-MCEMP-001\n\n## Subtasks\n\n- **T001: Explore current code** (mantis) ✅\n- **T002: Design architecture** (star-lord) ✅\n- **T003: Code edits** (mantis intervention after rocket retries failed) ✅ - AGENT_REGISTRY updated in route.js, server restarted\n- **T004: QA review** (grok) ⏳\n\n## Status\nCode complete. Dispatching grok for QA.md.
